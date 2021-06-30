@@ -1,0 +1,18 @@
+.wrapper {
+    position: relative;
+    background-color: aquamarine;
+    width: 700px;
+    height: 700px;
+}
+
+.wrapper p {
+    background-color: black;
+    width: 15px;
+    height: 15px;
+}
+
+.element {
+    z-index: 99;
+    position: inherit;
+    transition: left cubic-bezier(0.075, 0.82, 0.165, 1);
+}
