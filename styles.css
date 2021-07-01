@@ -1,18 +1,136 @@
-.wrapper {
-    position: relative;
-    background-color: aquamarine;
-    width: 700px;
-    height: 700px;
+.input, .button {
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.wrapper p {
-    background-color: black;
-    width: 15px;
-    height: 15px;
+ body div {
+    position:absolute;
+    color: #000;
+    padding: 3px;
+    top: 30px;
+    cursor: pointer;
 }
 
-.element {
-    z-index: 99;
-    position: inherit;
-    transition: left cubic-bezier(0.075, 0.82, 0.165, 1);
+.elem0 {
+    left: 5px;
+    z-index: 10;
+}
+
+.elem1 {
+    left: 20px;
+    z-index: 11;
+}
+
+.elem2 {
+    left: 30px;
+    z-index: 12;
+}
+
+.elem3 {
+    left: 40px;
+    z-index: 13;
+}
+
+.elem4 {
+    left: 50px;
+}
+
+.elem5 {
+    left: 60px;
+}
+
+.elem6 {
+    left: 70px;
+}
+
+.elem7 {
+    left: 80px;
+}
+
+.elem8 {
+    left: 90px;
+}
+
+.elem9 {
+    left: 100px;
+}
+
+.elem10 {
+    left: 110px;
+}
+
+.elem11 {
+    left: 120px;
+}
+
+.elem12 {
+    left: 130px;
+}
+
+.elem13 {
+    left: 140px;
+}
+
+.elem14 {
+    left: 150px;
+}
+
+.elem15 {
+    left: 160px;
+}
+
+.elem16 {
+    left: 170px;
+}
+
+.elem17 {
+    left: 180px;
+}
+
+.elem18 {
+    left: 190px;
+}
+
+.elem19 {
+    left: 200px;
+}
+
+.elem20 {
+    left: 210px;
+}
+
+.elem21 {
+    left: 220px;
+}
+
+.elem22 {
+    left: 230px;
+}
+
+.elem23 {
+    left: 240px;
+}
+
+.elem24 {
+    left: 250px;
+}
+
+.elem25 {
+    left: 260px;
+}
+
+.elem26 {
+    left: 270px;
+}
+
+.elem27 {
+    left: 280px;
+}
+
+.elem28 {
+    left: 290px;
+}
+
+.elem29 {
+    left: 300px;
 }
